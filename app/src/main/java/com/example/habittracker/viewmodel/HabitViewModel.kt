@@ -5,7 +5,6 @@ import androidx.lifecycle.viewModelScope
 import com.example.habittracker.model.RoomRepository
 import com.example.habittracker.model.WorkResult
 import com.example.habittracker.model.habits.Habit
-import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.combine
