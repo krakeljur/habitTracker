@@ -15,3 +15,11 @@ My first android kotlin MVVM app. Used ROOM, flow, MPAndroid (RoundedChart), Dif
 8. The mobile application should display the time elapsed since the last relapse (in the format of year/month/days/hours/minutes), and the system should also automatically update the time after editing the list of relapses (automatically select the last relapse to count from it);
 9. The mobile application should graphically display the trend of relapses (The system should automatically update the graphical display after editing the list of relapses);
 10. The mobile application must support English and Russian languages.
+
+## Screenshots
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/dae970e0-f0cf-4c77-9e54-d2fdf5ac60da)
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/66eee2bf-a9ab-4d2f-8ebb-e446c8070e4c)
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/73b5adeb-fb32-42bf-ac8f-7c3b13bf619e)
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/71a1a27d-9ba9-4529-8672-59fcc964f209)
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/f0886ab3-23b8-4f54-bcce-910ee158a641)
+![image](https://github.com/krakeljur/habitTracker/assets/125911670/89b0b81e-e645-4d6c-a3db-f0f4ea92b33c)
