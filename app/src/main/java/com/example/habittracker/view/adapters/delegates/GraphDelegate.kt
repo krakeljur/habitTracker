@@ -1,7 +1,6 @@
 package com.example.habittracker.view.adapters.delegates
 
 import android.content.Context
-import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -19,7 +18,6 @@ import com.github.mikephil.charting.data.BarDataSet
 import com.github.mikephil.charting.data.BarEntry
 import com.github.mikephil.charting.formatter.IndexAxisValueFormatter
 import java.text.SimpleDateFormat
-import java.util.LinkedHashMap
 
 
 class GraphDelegate(private val context: Context) : Delegate {

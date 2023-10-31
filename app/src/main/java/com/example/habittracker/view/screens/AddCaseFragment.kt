@@ -2,8 +2,6 @@ package com.example.habittracker.view.screens
 
 import android.app.TimePickerDialog
 import android.os.Bundle
-import android.os.SystemClock
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -12,13 +10,10 @@ import androidx.lifecycle.ViewModelProvider
 import com.example.habittracker.databinding.FragmentAddCaseBinding
 import com.example.habittracker.model.Repositories
 import com.example.habittracker.model.cases.Case
-import com.example.habittracker.view.Consts.DAY_UNIX_MILLIS
-import com.example.habittracker.view.Consts.HOUR_UNIX_MILLIS
 import com.example.habittracker.view.Consts.KEY_HABIT_ID
 import com.example.habittracker.viewmodel.AddCaseViewModel
 import com.example.habittracker.viewmodel.MainViewModelFactory
 import java.util.Calendar
-import java.util.Date
 import java.util.GregorianCalendar
 
 class AddCaseFragment: Fragment() {

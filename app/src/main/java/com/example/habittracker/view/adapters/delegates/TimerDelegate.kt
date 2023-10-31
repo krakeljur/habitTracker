@@ -2,7 +2,6 @@ package com.example.habittracker.view.adapters.delegates
 
 import android.content.Context
 import android.os.SystemClock
-import android.util.Log
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -13,7 +12,6 @@ import com.example.habittracker.view.Consts.DAY_UNIX_MILLIS
 import com.example.habittracker.view.adapters.CasesAdapter
 import com.example.habittracker.view.adapters.Delegate
 import com.example.habittracker.view.adapters.ItemList
-import java.util.Date
 
 class TimerDelegate(context: Context) : Delegate {
 

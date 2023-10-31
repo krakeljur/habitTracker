@@ -11,10 +11,6 @@ import com.example.habittracker.model.cases.Case
 import com.example.habittracker.view.adapters.CasesAdapter
 import com.example.habittracker.view.adapters.Delegate
 import com.example.habittracker.view.adapters.ItemList
-import java.util.Calendar
-import java.util.Date
-import java.util.Locale
-import java.util.TimeZone
 
 class CaseDelegate(context: Context) : Delegate {
 

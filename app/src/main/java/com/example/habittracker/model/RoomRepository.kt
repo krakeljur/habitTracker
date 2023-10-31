@@ -6,7 +6,6 @@ import com.example.habittracker.model.cases.CaseDbEntity
 import com.example.habittracker.model.habits.Habit
 import com.example.habittracker.model.habits.HabitDbEntity
 import com.example.habittracker.model.room.CaseUpdateCommentTuple
-import com.example.habittracker.model.room.CaseUpdateDateTuple
 import com.example.habittracker.model.room.CasesDao
 import com.example.habittracker.model.room.HabitDao
 import com.example.habittracker.model.room.HabitUpdateNameTuple
