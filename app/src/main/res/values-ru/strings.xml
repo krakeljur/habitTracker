@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="relapse">Рецидив</string>
+    <string name="app_name">habitTracker</string>
+    <string name="change_time">Изменить Время</string>
+    <string name="delete">Удалить</string>
+    <string name="rename">Переименовать</string>
+    <string name="add_rename_hint">Имя</string>
+    <string name="redact_hint">Комментарий</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отменить</string>
+    <string name="empty">Поле пусто</string>
+    <string name="error">Ошибка! Пожалуйста, попробуйте позднее</string>
+    <string name="again">Попробовать снова</string>
+    <string name="enter_name">Введите имя</string>
+    <string name="sure_delete_habit">Вы уверены, что хотите удалить эту привычку?</string>
+    <string name="sure_delete_case">Вы уверены, что хотите удалить этот рецидив?</string>
+    <string name="comment">Комментарий</string>
+    <string name="empty_list">У Вас ещё нет записей</string>
+    <string name="date">Дата</string>
+    <string name="time">Время</string>
+    <string name="redact_comment">Редактировать комментарий</string>
+    <string name="days">Дни</string>
+    <string name="hours">Часы</string>
+    <string name="min">Минуты</string>
+    <string name="sec">Секунды</string>
+    <string name="Months">Месяца</string>
+</resources>
