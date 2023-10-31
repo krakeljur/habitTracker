@@ -17,9 +17,10 @@ My first android kotlin MVVM app. Used ROOM, flow, MPAndroid (RoundedChart), Dif
 10. The mobile application must support English and Russian languages.
 
 ## Screenshots
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/dae970e0-f0cf-4c77-9e54-d2fdf5ac60da)
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/66eee2bf-a9ab-4d2f-8ebb-e446c8070e4c)
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/73b5adeb-fb32-42bf-ac8f-7c3b13bf619e)
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/71a1a27d-9ba9-4529-8672-59fcc964f209)
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/f0886ab3-23b8-4f54-bcce-910ee158a641)
-![image](https://github.com/krakeljur/habitTracker/assets/125911670/89b0b81e-e645-4d6c-a3db-f0f4ea92b33c)
+<img width="332" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/dae970e0-f0cf-4c77-9e54-d2fdf5ac60da">
+<img width="332" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/66eee2bf-a9ab-4d2f-8ebb-e446c8070e4c">
+<img width="332" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/62a94956-1f87-4807-9a62-3dca72a2792b">
+<img width="331" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/2aff417d-304d-43fd-8c01-0eba0a79990a">
+<img width="335" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/a7ed67ab-7af1-470d-adc5-ddb8ce6ebd39">
+<img width="331" alt="image" src="https://github.com/krakeljur/habitTracker/assets/125911670/b4edcb8f-a41a-460b-ae1a-e99fd602f946">
+
